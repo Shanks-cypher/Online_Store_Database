@@ -101,13 +101,13 @@ Work with backend data structures
 
 Communicate database architecture clearly
 
-Ideal for GitHub portfolio, resumes, and interviews.
-
 📁 Files Included
 
 online_store.sql — Schema + sample data
 
 queries.sql — Analysis & reporting queries
+
+a_queries - Scripts for Trigger Validation and Advanced Testing
 
 ERD.png — Entity Relationship Diagram
 
